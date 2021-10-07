@@ -17,7 +17,11 @@ Everything needed to run this application is already installed.
 
 ## Usage
 
-The user should simply run the code, and the app will genrate plots that will allow the user to find crypto arbitrage oppurtunity's.If the user would like to select different dates or timeframes, the user will have the ability to do that by simply switching out the dates for the useres preffered dates.
+To use the Crypto Arbitrage Analyzer, simply clone the repository and oopen the application with:
+
+```python
+```
+The user should simply run the code, and the app will genrate plots that will allow the user to find crypto arbitrage oppurtunity's. If the user would like to select different dates or timeframes, the user will have the ability to do that by simply switching out the dates for the user's prefered dates.
 
 ---
 
