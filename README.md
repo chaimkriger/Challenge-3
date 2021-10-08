@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Crypto Arbitrage
 
 This is a crypto arbitrage analyzer. The application sorts through data from two exchanges, bitstamp and coinbase. It takes in data from from a csv file called bitstamp.csv, and a csv file called coinbase.csv,  and attempts to capitalize on simultaneous price dislocations in those markets by using the powers of Pandas. 
