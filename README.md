@@ -17,7 +17,7 @@ Everything needed to run this application is already installed.
 
 ## Usage
 
-The user should simply run the code, and the app will genrate plots that will allow the user to find crypto arbitrage oppurtunity's. If the user would like to select different dates or timeframes, the user will have the ability to do that by simply switching out the dates for the user's prefered dates.
+You simply run the code, and the app will genrate plots that will allow you to find crypto arbitrage oppurtunity's. if you would like to select different dates or timeframes,  you'll have the ability to do so buy switching out the dates for your prefered dates.
 
 ---
 
