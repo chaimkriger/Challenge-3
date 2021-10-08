@@ -33,13 +33,3 @@ Chaim Kriger
 # License
 
 No license required to use this application. 
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> ed6fde3b2883efdd4751a5800c1896fc7b12aff0
-=======
-# Challenge-3
-homework
->>>>>>> fbca3f1eb51d69838ed3dd0b1ffc0c85696d3550
